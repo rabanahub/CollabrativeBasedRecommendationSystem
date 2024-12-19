@@ -6,9 +6,11 @@ Two kinds of collaborative filtering techniques used are:
 
 There are two general types of collaborative filtering:
 
-User to user
-Item to item
-User to user collaborative filtering basically operates under the assumption that users who gave similar ratings to a certain item are likely to have the same preference for other items as well. Therefore this method mainly relies on finding similarity between users. However, in some cases, user preference might be to abstract to be broken down. This is where item to item collaborative filtering comes in handy. Here, similarity between items is used instead of similarity between users. In this article, we’ll be focusing on user to user collaborative filtering.
+1.User to user
+2.Item to item
+**User to user** 
+collaborative filtering basically operates under the assumption that users who gave similar ratings to a certain item are likely to have the same preference for other items as well. Therefore this method mainly relies on finding similarity between users. However, in some cases, user preference might be to abstract to be broken down. 
+**item to item**This is where item to item collaborative filtering comes in handy. Here, similarity between items is used instead of similarity between users. In this article, we’ll be focusing on user to user collaborative filtering.
 
 Workflow of collaborative filtering:
 
