@@ -12,6 +12,9 @@ User to user collaborative filtering basically operates under the assumption tha
 
 Workflow of collaborative filtering:
 
+![image](https://github.com/user-attachments/assets/d9626993-9061-4e3d-ada5-7894b283379e)
+
+
 
 User to user collaborative filtering
 The process starts by converting the rating data into a utility matrix where the list of users are the rows and list of items are the columns.
